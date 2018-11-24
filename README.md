@@ -1,4 +1,5 @@
-![](https://clojars.org/perun-selmer/latest-version.svg)
+[![Clojars Project](https://img.shields.io/clojars/v/perun-selmer.svg)](https://clojars.org/perun-selmer)
+[![Build Status](https://travis-ci.org/rwstauner/perun-selmer.svg?branch=master)](https://travis-ci.org/rwstauner/perun-selmer)
 
 # perun-selmer
 
