@@ -3,9 +3,9 @@
 
 (set-env! :resource-paths #{"src"}
           :source-paths   #{"test"}
-          :dependencies   '[[org.clojure/clojure "1.8.0"]
+          :dependencies   '[[org.clojure/clojure "1.8.0" :scope "provided"]
                             [boot/core "2.8.2" :scope "provided"]
-                            [perun  "0.4.2-SNAPSHOT" :scope "test"]
+                            [perun  "0.4.2-SNAPSHOT"]
                             [adzerk/bootlaces "0.1.13" :scope "test"]])
 
 (require 'perun-selmer.core)
